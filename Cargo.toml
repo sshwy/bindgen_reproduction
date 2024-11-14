@@ -1,0 +1,9 @@
+[package]
+name = "test_bindgen"
+version = "0.1.0"
+edition = "2021"
+
+
+[build-dependencies]
+cc = "1.1"
+bindgen = "0.65.1"
